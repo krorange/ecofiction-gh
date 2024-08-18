@@ -10,11 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %}
 
 {% include feature/image.html objectid="https://university-nevada-press-us.imgix.net/covers/9780874178111.jpg" width="75" alt="Where the Wild Books Are: A Field Guide to Ecofiction" %}
 
 ## About the Collection
+
+This collection was based on the book by Jim Dwyer (2010), _Where the Wild Books Are: A Field Guide to Ecofiction_.
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
@@ -24,6 +26,3 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-<!--{% include cb/about_the_about.md %} >
