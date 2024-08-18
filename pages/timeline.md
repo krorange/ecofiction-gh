@@ -1,7 +1,7 @@
 ---
-title: Timeline
-layout: page-full-width
-permalink: /timeline.html
+title: Depth
+layout: timeline
+permalink: /depth.html
 # a timeline visualization will be added below the content in this file
 ---
 
