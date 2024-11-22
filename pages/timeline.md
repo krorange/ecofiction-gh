@@ -6,5 +6,3 @@ permalink: /timeline.html
 ---
 
 {% include feature/timeline.html %}
-
-{% include feature/timelinejs.html %}
